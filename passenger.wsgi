@@ -1,0 +1,1 @@
+from opening_registration.wsgi import application
